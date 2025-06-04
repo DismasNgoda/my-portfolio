@@ -260,7 +260,7 @@ const Portfolio = () => {
             <a href="https://www.linkedin.com/in/dismas-ng-oda-851426104/" className="text-gray-400 hover:text-white transform hover:scale-110 transition-all duration-300">
               <Linkedin className="w-8 h-8" />
             </a>
-            <a href="https://yourportfolio.com" className="text-gray-400 hover:text-white transform hover:scale-110 transition-all duration-300">
+            <a href="https://my-portfolio-bice-nine-34.vercel.app/" className="text-gray-400 hover:text-white transform hover:scale-110 transition-all duration-300">
               <Globe className="w-8 h-8" />
             </a>
           </div>
