@@ -226,7 +226,7 @@ const Portfolio = () => {
           </h1>
           
           <p className="text-2xl md:text-3xl text-gray-300 mb-4 animate-fade-in delay-300">
-            Full-Stack Engineer & Data Visualization Expert
+            Full-Stack Engineer | Data Visualization Expert | AI Researcher | Machine Learning
           </p>
           
           <p className="text-lg text-gray-400 mb-8 max-w-3xl mx-auto animate-fade-in delay-500">
