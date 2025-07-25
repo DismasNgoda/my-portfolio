@@ -87,32 +87,32 @@ const Portfolio = () => {
 
   const experiences = [
     {
-      role: 'Advanced AI Trainer (Software Developer)',
-      company: 'Invisible Technologies Inc.',
-      duration: '2024 - Present',
-      description: 'Leads the development of data visualization platforms serving 100K+ users globally. Built real-time dashboards and ML-powered analytics.',
-      achievements: ['40% performance improvement', 'Led team of 5 engineers']
+      role: 'Product Data Analyst',
+      company: 'Yetu DT SACCO',
+      duration: '2024 - 2025',
+      description: 'Creates interactive content and data stories that simplifies complex and technical insights into actionable items.',
+      achievements: ['Reduced reporting turnaround time by 65% by designing Power BI dashboards that automated insights across loan performance, liquidity trends, and member transactions, enabling real-time executive decisions.', 'Increased loan product uptake by 27% after delivering targeted marketing strategies based on cluster analysis and behavioral segmentation of 15,000+ SACCO members.', 'Cut churn risk by 20% through collaborative development and deployment of a predictive model identifying at-risk members, with actionable insights embedded directly in the dashboards used by relationship managers.']
     },
     {
-      role: 'Technical Writer/Web Developer',
-      company: 'Freelance',
-      duration: '2019 - Present',
-      description: 'Creates interactive content and data stories that simplifies complex and technical insights into actionable items.',
-      achievements: ['Built 10+ custom visualizations', 'Improved user engagement by 100%']
+      role: 'Software Developer - Dashboard/Platform',
+      company: 'Invisible Technologies Inc.',
+      duration: '2021 - 2024',
+      description: 'Leads the development of data visualization platforms serving 100K+ users globally. Built real-time dashboards and ML-powered analytics.',
+      achievements: ['Boosted dashboard responsiveness by 45% after implementing frontend performance optimizations and load testing protocols across 5+ production-level analytics platforms.', 'Increased report automation efficiency by 80%, reducing manual reporting tasks.']
     },
     {
       role: 'Data Officer',
       company: 'Aids Healthcare Foundation',
-      duration: '2019 - 2020',
+      duration: '2020',
       description: 'Liaised with healthcare providers and program teams across supported sites to ensure timely data collection, submission, and resolution of inconsistencies.',
       achievements: ['Streamlined data collection process', 'Supported patient privacy according to outlined data protection protocols']
     },
     {
       role: 'ICT Officer',
       company: 'Phoenix Aviation Ltd',
-      duration: '2019 - 2019',
+      duration: '2019 - 2020',
       description: 'Led the performance tuning and monitoring of mission-critical databases that support flight operations.',
-      achievements: ['Improved team collaboration', 'Enhanced the management of Hybrid ETL Workflows']
+      achievements: ['Achieved 99.98% database uptime by optimizing SQL Server configurations, query performance, and implementing automated maintenance scripts across aviation-critical systems.', 'Enhanced the management of Hybrid ETL Workflows', 'Reduced database-related incidents by 60% through proactive monitoring using Zabbix and implementing automated health check dashboards with Power BI and Python scripts.']
     }
   ];
 
